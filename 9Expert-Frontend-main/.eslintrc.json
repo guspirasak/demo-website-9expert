@@ -1,0 +1,15 @@
+{
+    "extends": "next/core-web-vitals",
+    "plugins": [
+        "@typescript-eslint"
+    ],
+    "rules": {
+        "semi": "off",
+        "quotes": "off",
+        "comma-dangle": "off",
+        "indent": ["error", 4],
+        "react-hooks/rules-of-hooks": "off", // TODO: remove this for best practices
+        "react-hooks/exhaustive-deps": "warn", // TODO: remove this for best practices
+        "@typescript-eslint/no-explicit-any": "off"  // TODO: remove this for best practices
+    }
+}

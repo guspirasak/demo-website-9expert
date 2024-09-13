@@ -1,0 +1,1 @@
+export const trainingScheduleUrl = "https://www.9experttraining.com/sites/default/files/files/page/Public%20Class%202024%28Update%2013-05-2024%29.pdf"

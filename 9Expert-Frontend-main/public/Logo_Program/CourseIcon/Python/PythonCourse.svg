@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Excel" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 250 250">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke: url(#linear-gradient);
+        stroke-miterlimit: 10;
+        stroke-width: 10px;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="10.7" y1="125" x2="239.3" y2="125" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5a9fd4"/>
+      <stop offset="1" stop-color="#306998"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="4374.27" y1="-307.68" x2="4520.63" y2="-433.59" gradientTransform="translate(-2414.02 -121.34) scale(.56 -.57)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="4577.21" y1="-509.8" x2="4524.95" y2="-435.86" gradientTransform="translate(-2414.02 -121.34) scale(.56 -.57)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd43b"/>
+      <stop offset="1" stop-color="#ffe873"/>
+    </linearGradient>
+  </defs>
+  <circle class="cls-2" cx="125" cy="125" r="109.3"/>
+  <g>
+    <path id="path1948" class="cls-1" d="m124.08,49.12c-6.15.03-12.03.55-17.2,1.47-15.23,2.69-18,8.32-18,18.71v13.72h36v4.57h-49.5c-10.46,0-19.62,6.29-22.49,18.25-3.3,13.71-3.45,22.27,0,36.58,2.56,10.66,8.67,18.25,19.13,18.25h12.38v-16.45c0-11.88,10.28-22.36,22.49-22.36h35.95c10.01,0,18-8.24,18-18.29v-34.28c0-9.76-8.23-17.08-18-18.71-6.18-1.03-12.6-1.5-18.75-1.47Zm-19.47,11.03c3.72,0,6.75,3.09,6.75,6.88,0,3.78-3.04,6.84-6.75,6.84-3.73,0-6.75-3.06-6.75-6.84s3.02-6.88,6.75-6.88Z"/>
+    <path id="path1950" class="cls-3" d="m165.32,87.59v15.98c0,12.39-10.51,22.82-22.49,22.82h-35.95c-9.85,0-18,8.43-18,18.29v34.28c0,9.76,8.48,15.49,18,18.29,11.39,3.35,22.32,3.96,35.95,0,9.06-2.62,18-7.9,18-18.29v-13.72h-35.95v-4.57h53.95c10.46,0,14.36-7.3,18-18.25,3.76-11.28,3.6-22.12,0-36.58-2.59-10.41-7.52-18.25-18-18.25h-13.51Zm-20.22,86.8c3.73,0,6.75,3.06,6.75,6.84s-3.02,6.88-6.75,6.88-6.75-3.09-6.75-6.88,3.04-6.84,6.75-6.84Z"/>
+  </g>
+</svg>

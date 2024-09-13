@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Excel" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 250 250">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #881421;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #e08095;
+      }
+
+      .cls-5 {
+        fill: #c94f60;
+      }
+
+      .cls-6 {
+        opacity: .2;
+      }
+
+      .cls-6, .cls-7 {
+        isolation: isolate;
+      }
+
+      .cls-8 {
+        fill: none;
+      }
+
+      .cls-7 {
+        opacity: .1;
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-10 {
+        fill: #af2031;
+      }
+
+      .cls-3 {
+        stroke: #c94f60;
+        stroke-miterlimit: 10;
+        stroke-width: 10px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="65.99" y1="160.93" x2="108.35" y2="87.58" gradientTransform="translate(0 252) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b72c3f"/>
+      <stop offset=".5" stop-color="#b12334"/>
+      <stop offset="1" stop-color="#9d1623"/>
+    </linearGradient>
+  </defs>
+  <circle class="cls-3" cx="125" cy="125" r="109.3"/>
+  <path class="cls-1" d="m84.22,145.45v29.5c0,8.15,21.79,14.75,48.68,14.75s48.68-6.61,48.68-14.75v-29.5h-97.36Z"/>
+  <path class="cls-10" d="m84.22,112.99v32.45c0,8.15,21.79,14.75,48.68,14.75s48.68-6.61,48.68-14.75v-32.45h-97.36Z"/>
+  <path class="cls-5" d="m84.22,80.54v32.45c0,8.15,21.79,14.75,48.68,14.75s48.68-6.61,48.68-14.75v-32.45h-97.36Z"/>
+  <path class="cls-8" d="m48.82,56.94h141.61v141.61H48.82V56.94Z"/>
+  <ellipse class="cls-4" cx="132.9" cy="80.54" rx="48.68" ry="14.75"/>
+  <path class="cls-7" d="m120.12,92.34h-35.9v73.76h35.9c2.98,0,5.4-2.43,5.41-5.41v-62.94c0-2.98-2.43-5.4-5.41-5.41Z"/>
+  <path class="cls-6" d="m117.17,95.29h-32.95v73.76h32.95c2.98,0,5.4-2.43,5.41-5.41v-62.94c0-2.98-2.43-5.4-5.41-5.41Z"/>
+  <path class="cls-6" d="m117.17,95.29h-32.95v67.86h32.95c2.98,0,5.4-2.43,5.41-5.41v-57.04c0-2.98-2.43-5.4-5.41-5.41Z"/>
+  <path class="cls-6" d="m114.22,95.29h-30v67.86h30c2.98,0,5.4-2.43,5.41-5.41v-57.04c0-2.98-2.43-5.4-5.41-5.41Z"/>
+  <rect class="cls-9" x="54.72" y="95.29" width="64.91" height="64.91" rx="5.41" ry="5.41"/>
+  <path class="cls-2" d="m83.29,110.16h7.97l12.8,35.16h-7.52l-2.82-8.38h-13.17l-2.77,8.38h-7.48l12.99-35.16Zm8.73,21.36l-4.09-12.72c-.33-.93-.59-1.89-.75-2.87h-.15c-.15,1-.4,1.99-.73,2.95l-4.13,12.65h9.85Z"/>
+</svg>

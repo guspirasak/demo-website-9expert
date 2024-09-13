@@ -1,0 +1,106 @@
+.boxSwiperOfflineCourse {
+    --swiper-scrollbar-border-radius: 10px;
+    --swiper-scrollbar-top: auto;
+    --swiper-scrollbar-bottom: 16px;
+    --swiper-scrollbar-left: auto;
+    --swiper-scrollbar-right: auto;
+    --swiper-scrollbar-sides-offset: 20%;
+    --swiper-scrollbar-bg-color: rgba(0, 0, 0, 0.1);
+    --swiper-scrollbar-drag-bg-color: #19B5FE;
+    --swiper-scrollbar-size: 4px;
+}
+
+.boxSwiperOnlineCourse {
+    --swiper-scrollbar-border-radius: 10px;
+    --swiper-scrollbar-top: auto;
+    --swiper-scrollbar-bottom: 16px;
+    --swiper-scrollbar-left: auto;
+    --swiper-scrollbar-right: auto;
+    --swiper-scrollbar-sides-offset: 20%;
+    --swiper-scrollbar-bg-color: rgba(0, 0, 0, 0.1);
+    --swiper-scrollbar-drag-bg-color: #154ACC;
+    --swiper-scrollbar-size: 4px;
+}
+
+.boxSwiperOnlineCourse .swiper-scrollbar-horizontal {
+    background-color: white;
+}
+
+.boxSwiperAboutUsBanner .swiper-slide {
+    &.swiper-slide-active {
+        transform: scale(1.15, 1.15) !important;
+    }
+}
+
+.technologyAreaScheduleFilter {
+    --swiper-scrollbar-border-radius: 10px;
+    --swiper-scrollbar-top: auto;
+    --swiper-scrollbar-bottom: 0;
+    --swiper-scrollbar-left: auto;
+    --swiper-scrollbar-right: auto;
+    --swiper-scrollbar-sides-offset: 0%;
+    --swiper-scrollbar-bg-color: #D9ECFF;
+    --swiper-scrollbar-drag-bg-color: linear-gradient(270deg, #AC80E2 0%, #3E62BA 52.08%, #49A0E2 100%);
+    --swiper-scrollbar-size: 4px;
+}
+
+.article-category-swiper {
+    --swiper-scrollbar-border-radius: 10px;
+    --swiper-scrollbar-top: auto;
+    --swiper-scrollbar-bottom: 16px;
+    --swiper-scrollbar-left: auto;
+    --swiper-scrollbar-right: auto;
+    --swiper-scrollbar-sides-offset: 20%;
+    --swiper-scrollbar-bg-color: rgba(0, 0, 0, 0.1);
+    --swiper-scrollbar-drag-bg-color: #19B5FE;
+    --swiper-scrollbar-size: 4px;
+}
+
+input[type="date"] ::-webkit-calendar-picker-indicator {
+    display: none;
+    -webkit-appearance: none;
+}
+
+.blog-pre {
+    margin-bottom: 3em !important;
+    -webkit-box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000, 35px -23px 2px -16px rgba(0, 0, 0, 0);
+    box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000, 35px -23px 2px -16px rgba(0, 0, 0, 0);
+    position: relative;
+}
+
+.code-copy-btn {
+    color: white;
+    position: absolute;
+    right: 10px;
+    top: -2px;
+    font-size: 1.5em;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.code-copy-btn:hover {
+    transform: scale(1.1);
+    opacity: 0.9;
+}
+
+.md-article-detail {
+    border: 1px solid #f1f1f1;
+    min-height: 150px;
+}
+
+.react-player {
+    border: 0;
+    border-radius: 20px;
+    position: relative;
+    overflow: hidden;
+}
+
+iframe {
+    aspect-ratio: 16 / 9;
+    width: 100%;
+    height: 100%;
+}
+
+ul, ol {
+    margin-left: 20px;
+}

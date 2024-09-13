@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Excel" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 250 250">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-3 {
+        stroke: #1a77ff;
+        stroke-miterlimit: 10;
+        stroke-width: 10px;
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-6 {
+        fill: none;
+      }
+
+      .cls-7 {
+        mask: url(#mask);
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-6" x="65.29" y="63.29" width="123.43" height="123.43"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-6" x="65.29" y="63.29" width="123.43" height="123.43"/>
+    </clipPath>
+    <mask id="mask" x="58.86" y="76.14" width="131.14" height="100.29" maskUnits="userSpaceOnUse">
+      <g id="mask0">
+        <path class="cls-2" d="m143.99,76.14c1.46,0,2.86.62,3.83,1.71l39.11,43.71c1.75,1.95,1.75,4.91,0,6.86l-39.11,43.71c-.98,1.09-2.37,1.71-3.83,1.71h-73.63c-4.45,0-6.8-5.26-3.83-8.57l36.04-40.29-36.04-40.29c-2.96-3.31-.61-8.57,3.83-8.57h73.63Z"/>
+      </g>
+    </mask>
+    <linearGradient id="linear-gradient" x1="120.57" y1="118" x2="102.57" y2="175.86" gradientTransform="translate(0 252) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d36a5"/>
+      <stop offset="1" stop-color="#1152d4"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="124.43" y1="175.86" x2="124.43" y2="78.14" gradientTransform="translate(0 252) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#84caff"/>
+      <stop offset="1" stop-color="#61b1fb"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="113.5" y1="175.86" x2="113.5" y2="78.14" gradientTransform="translate(0 252) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3b90f5"/>
+      <stop offset="1" stop-color="#2a78ee"/>
+    </linearGradient>
+  </defs>
+  <circle class="cls-3" cx="125" cy="125" r="109.3"/>
+  <g class="cls-5">
+    <g class="cls-4">
+      <g class="cls-7">
+        <g>
+          <path class="cls-9" d="m146.29,76.14l-43.71,48.86-43.71-48.86h87.43Z"/>
+          <path d="m146.29,76.66l-87.43,97.71h87.43l43.71-48.86-43.71-48.86Z"/>
+          <path d="m146.29,78.71l-87.43,97.71h87.43l43.71-48.86-43.71-48.86Z"/>
+          <path class="cls-1" d="m58.86,173.86l87.43-97.71,43.71,48.86-43.71,48.86H58.86Z"/>
+          <path class="cls-8" d="m58.86,173.86l87.43-97.71,21.86,24.43-65.57,73.29h-43.71Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
